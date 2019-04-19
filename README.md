@@ -1,7 +1,7 @@
-android_device_lge_gpro-common
+android_vendor_lge_geehdc
 ==============================
 
-CyanogenMod 11.0 device tree for LGL21 (KDDI Optimus G) 
+Nitrogen 8.1 vendor tree for L01E/LGL21 (Docomo/KDDI Optimus G) 
 
 Working:
 * Graphics
@@ -10,11 +10,10 @@ Working:
 * Bluetooth
 * Sensors
 * GPS
-* Camera
 * Video
 * Vibrator
 * Phone  
 
-Known issues:
-* 3G/LTE Communication is not working (I don't have au LTE SIM)
+Not Working
+* Camera
 
