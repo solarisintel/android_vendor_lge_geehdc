@@ -1,4 +1,4 @@
-android_device_lge_gpro-common
+android_device_lge_geehdc
 ==============================
 
 CyanogenMod 11.0 device tree for LGL21 (KDDI Optimus G) 
